@@ -1,0 +1,16 @@
+{
+  "language": "typescript",
+  "app": "npx ts-node main.ts",
+  "projectId": "4dd0a824-9a2a-40fb-99d9-5c0e2c1bc696",
+  "sendCrashReports": "false",
+  "terraformProviders": [],
+  "terraformModules": [
+    {
+      "name": "ecr",
+      "source": "terraform-aws-modules/ecr/aws",
+      "version": "1.6.0"
+    }
+  ],
+  "context": {
+  }
+}
