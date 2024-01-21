@@ -22,7 +22,7 @@ npm config set prefix ~/.npm/global
 export PATH="~/.npm/global/bin:$PATH"
 # see https://developer.hashicorp.com/terraform/tutorials/cdktf/cdktf-install
 # see https://www.npmjs.com/package/cdktf-cli
-npm install --global cdktf-cli@0.20.0
+npm install --global cdktf-cli@0.20.1
 cdktf --version
 ```
 
